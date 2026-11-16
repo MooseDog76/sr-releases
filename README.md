@@ -3,6 +3,9 @@
 The installers for Recanic - Screen Recorder (called SR until version 0.2.50), by Ross O'Leary. Get the newest from the
 Releases page: https://github.com/MooseDog76/sr-releases/releases/latest
 
+Written with the help of an AI coding assistant. Designed, directed and checked by Ross O'Leary. Windows, Teams, Otter and
+GitHub are names that belong to their owners.
+
 ## Privacy note
 
 - **Who made Recanic:** Ross O'Leary. To ask about privacy, or to complain, email feedback@recanic.com. I reply within 30
